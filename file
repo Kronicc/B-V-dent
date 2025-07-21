@@ -1,0 +1,104 @@
+<div class="product-card">
+        <img src="attachments.jpg" alt="Shërbim">
+        <h3>Attachmena</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+    <div class="product-card">
+        <img src="jodoform.jpg" alt="Shërbim">
+        <h3>Jodoform</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+      </div>
+
+    <div class="product-card">
+        <img src="calcimol.jpg" alt="Shërbim">
+        <h3>Calcimol</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+    <div class="product-card">
+        <img src="kompozite.jpeg" alt="Shërbim">
+        <h3>Kompozitë</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+  </div>
+  <div class="product-grid">
+
+    <div class="product-card">
+        <img src="pastrim.webp" alt="Shërbim">
+        <h3>Pastrim i dhëmbëve me brushë</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+    <div class="product-card">
+        <img src="prerja e ures se porcelanit.jpg" alt="Shërbim">
+        <h3>Prerja e ures se porcelanit</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+      </div>
+
+    <div class="product-card">
+        <img src="preparature e protezes.webp" alt="Shërbim">
+        <h3>Preparaturë e protezës</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+    <div class="product-card">
+        <img src="eksterpim i pulpes.webp" alt="Shërbim">
+        <h3>Eksterpim i pulpes - 1 kanal</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+  </div>
+  <div class="product-grid">
+
+    <div class="product-card">
+        <img src="eksterpim i pulpes.webp" alt="Shërbim">
+        <h3>Eksterpim i pulpes - 2 kanale</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div> 
+
+    <div class="product-card">
+        <img src="eksterpim i pulpes.webp" alt="Shërbim">
+        <h3>Eksterpim i pulpes - 3 kanale</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+    <div class="product-card">
+        <img src="orthoclear.webp" alt="Shërbim">
+        <h3>Orthoclear</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+    
+    <div class="product-card">
+        <img src="implant2.jpg" alt="Shërbim">
+        <h3>Vendosja e implanteve</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+  </div>
+  <div class="product-grid">
+
+    <div class="product-card">
+        <img src="proteze mobile.webp" alt="Shërbim">
+        <h3>Proteza mobile</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+    <div class="product-card">
+        <img src="proteze e skeletuar.webp" alt="Shërbim">
+        <h3>Protezë e skeletuar</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+    <div class="product-card">
+        <img src="teeth whitening.gif" alt="Shërbim">
+        <h3>Zbardhim i dhëmbëve</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
+
+    <div class="product-card">
+        <img src="teeth whitening.gif" alt="Shërbim">
+        <h3>Zbardhim i dhëmbëve</h3>
+        <p style="font-size: 15px; color: gray;"></p>
+    </div>
