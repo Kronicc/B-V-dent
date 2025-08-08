@@ -77,7 +77,7 @@
             animation: overlay-text 3s ease-in-out infinite alternate;
         }
 
-            @keyframes fadeOutline {
+            @keyframes overlay-text {
       0% {
         text-shadow:
           0 0 2px rgba(0, 0, 0, 0.3),
@@ -98,4 +98,5 @@
             margin-top: 20px;
 
         }
+
 
